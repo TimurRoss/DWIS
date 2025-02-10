@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "programmer": "arduinoasispatmega32u4",
+    "sketch": "test_serial\\test_serial.ino",
+    "port": "COM3"
+}
